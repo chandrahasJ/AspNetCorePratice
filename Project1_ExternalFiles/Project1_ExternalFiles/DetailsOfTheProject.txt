@@ -1,0 +1,9 @@
+﻿    1) Adding app.UseStaticFiles() or app.UseFileServer(boolean) in Configure Method in Startup.cs will only allow access to files inside wwwroot
+    2) Adding services.AddMVC() in ConfigureService(IServiceCollection services) Method
+	3) Since we have added the service we can now use the MVC as shown below
+		app.UseMVC(routes => {
+			routes.MapRoute(
+				name : "default",
+				template : "{controller=Home}/{Action=Index}/{id?}"
+			);
+		});

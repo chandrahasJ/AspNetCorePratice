@@ -1,3 +1,3 @@
-﻿function clickMe(this) {
-    alert("Hello World " + this.name);
+﻿function clickMe(data) {
+    alert("Hello World " + data.name);
 }

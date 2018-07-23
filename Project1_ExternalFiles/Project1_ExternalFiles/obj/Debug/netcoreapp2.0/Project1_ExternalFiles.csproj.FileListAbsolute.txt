@@ -1,0 +1,11 @@
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\bin\Debug\netcoreapp2.0\Project1_ExternalFiles.deps.json
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\bin\Debug\netcoreapp2.0\Project1_ExternalFiles.runtimeconfig.json
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\bin\Debug\netcoreapp2.0\Project1_ExternalFiles.runtimeconfig.dev.json
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\bin\Debug\netcoreapp2.0\Project1_ExternalFiles.dll
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\obj\Debug\netcoreapp2.0\Project1_ExternalFiles.csprojResolveAssemblyReference.cache
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\obj\Debug\netcoreapp2.0\Project1_ExternalFiles.csproj.CoreCompileInputs.cache
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\obj\Debug\netcoreapp2.0\Project1_ExternalFiles.AssemblyInfoInputs.cache
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\obj\Debug\netcoreapp2.0\Project1_ExternalFiles.AssemblyInfo.cs
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\bin\Debug\netcoreapp2.0\Project1_ExternalFiles.pdb
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\obj\Debug\netcoreapp2.0\Project1_ExternalFiles.dll
+M:\VS2017 Projects\AspNetCorePratice\Project1_ExternalFiles\Project1_ExternalFiles\obj\Debug\netcoreapp2.0\Project1_ExternalFiles.pdb
