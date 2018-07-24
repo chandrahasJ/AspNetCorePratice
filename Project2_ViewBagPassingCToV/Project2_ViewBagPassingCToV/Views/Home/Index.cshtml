@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>ViewBag</h2>
+
+<p>
+    My Name is @ViewBag.Name <br/>    
+    My Birthday is on @ViewBag.Birthday.ToString("dd-MMM-yyyy") <br/>
+    I Want salary of @ViewBag.Salary Dollar<br/>
+    Am I married(Yes/No) : @(ViewBag.IsMarried == true ? "Yes" : "N")
+</p>
+
+1) ViewBag's are dynamic <br/>
+2) We use ViewBag to pass data from Controller to View - 
+
+
