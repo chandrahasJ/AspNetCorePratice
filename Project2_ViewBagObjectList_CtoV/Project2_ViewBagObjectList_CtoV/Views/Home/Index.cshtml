@@ -1,0 +1,23 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ViewBag List Object</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Product Price</th>
+        </tr>       
+        @foreach (var item in ViewBag.ProductList)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.ProductName</td>
+                <td>@item.ProductPrice</td>
+            </tr>
+        }
+        
+    </table>
+</body>
+</html>

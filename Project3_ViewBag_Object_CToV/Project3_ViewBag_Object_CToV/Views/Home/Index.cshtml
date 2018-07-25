@@ -1,0 +1,26 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Passing Object via View Bag</title>
+</head>
+<body>
+    We can pass models via ViewBag 
+    <table>
+        <tr>
+            <td>Product ID</td>
+            <td>@ViewBag.Product.ID</td>
+        </tr>
+        <tr>
+            <td>Product Name</td>
+            <td>@ViewBag.Product.ProductName</td>
+        </tr>
+        <tr>
+            <td>Product Description</td>
+            <td>@ViewBag.Product.ProductDescription</td>
+        </tr>
+        <tr>
+            <td>Product Price</td>
+            <td>@ViewBag.Product.ProductPrice</td>
+        </tr>
+    </table>
+</body>
+</html>
