@@ -1,0 +1,11 @@
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\bin\Debug\netcoreapp2.0\Project3_ReadAppConfig.deps.json
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\bin\Debug\netcoreapp2.0\Project3_ReadAppConfig.runtimeconfig.json
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\bin\Debug\netcoreapp2.0\Project3_ReadAppConfig.runtimeconfig.dev.json
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\bin\Debug\netcoreapp2.0\Project3_ReadAppConfig.dll
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\obj\Debug\netcoreapp2.0\Project3_ReadAppConfig.csprojResolveAssemblyReference.cache
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\obj\Debug\netcoreapp2.0\Project3_ReadAppConfig.csproj.CoreCompileInputs.cache
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\obj\Debug\netcoreapp2.0\Project3_ReadAppConfig.AssemblyInfoInputs.cache
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\obj\Debug\netcoreapp2.0\Project3_ReadAppConfig.AssemblyInfo.cs
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\bin\Debug\netcoreapp2.0\Project3_ReadAppConfig.pdb
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\obj\Debug\netcoreapp2.0\Project3_ReadAppConfig.dll
+M:\VS2017 Projects\AspNetCorePratice\Project3_ReadAppConfig\Project3_ReadAppConfig\obj\Debug\netcoreapp2.0\Project3_ReadAppConfig.pdb
