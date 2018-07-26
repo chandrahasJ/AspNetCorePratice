@@ -1,0 +1,11 @@
+M:\VS2017 Projects\Project4\Project4_Routes\bin\Debug\netcoreapp2.0\Project4_Routes.deps.json
+M:\VS2017 Projects\Project4\Project4_Routes\bin\Debug\netcoreapp2.0\Project4_Routes.runtimeconfig.json
+M:\VS2017 Projects\Project4\Project4_Routes\bin\Debug\netcoreapp2.0\Project4_Routes.runtimeconfig.dev.json
+M:\VS2017 Projects\Project4\Project4_Routes\bin\Debug\netcoreapp2.0\Project4_Routes.dll
+M:\VS2017 Projects\Project4\Project4_Routes\obj\Debug\netcoreapp2.0\Project4_Routes.csprojResolveAssemblyReference.cache
+M:\VS2017 Projects\Project4\Project4_Routes\obj\Debug\netcoreapp2.0\Project4_Routes.csproj.CoreCompileInputs.cache
+M:\VS2017 Projects\Project4\Project4_Routes\obj\Debug\netcoreapp2.0\Project4_Routes.AssemblyInfoInputs.cache
+M:\VS2017 Projects\Project4\Project4_Routes\obj\Debug\netcoreapp2.0\Project4_Routes.AssemblyInfo.cs
+M:\VS2017 Projects\Project4\Project4_Routes\bin\Debug\netcoreapp2.0\Project4_Routes.pdb
+M:\VS2017 Projects\Project4\Project4_Routes\obj\Debug\netcoreapp2.0\Project4_Routes.dll
+M:\VS2017 Projects\Project4\Project4_Routes\obj\Debug\netcoreapp2.0\Project4_Routes.pdb
