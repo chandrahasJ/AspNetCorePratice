@@ -1,14 +1,17 @@
-﻿@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers"
+﻿@{
+    Layout = null;
+}
 <!DOCTYPE html>
 <html>
 <head>
     <title>Routes</title>
 </head>
 <body>
-    <h3>Index View</h3>
-    <a asp-controller="demo">Go to Index directly</a>
-    <br />
-    <a asp-controller="demo" asp-action="Index">Go Index</a>
+    <h3>Using Tag Helper asp-controller &Aacute; asp-action</h3>
+    <a asp-controller="" asp-action="">Controller & Action Blank </a> <br/>
+    <a href="~/">Normal href</a> <br />
+    <a asp-controller="demo" asp-action="">Index Blank</a> <br />
+    <a asp-controller="demo" asp-action="index">Controller & Action</a>  <br />
     <br/>
     <a asp-controller="demo" asp-action="Demo2">Go Demo 2 View</a>
 
@@ -16,7 +19,11 @@
     <br/>
     <br />
     <br />
-
-    @Html.
+    <h3>using Action </h3>
+    @Html.ActionLink("Go to index 2", "index", "")
+    <br/>
+    @Html.ActionLink("Go to index","index","demo")
+    <br/>
+    @Html.ActionLink("demo data", "demo2","demo")
 </body>
 </html>

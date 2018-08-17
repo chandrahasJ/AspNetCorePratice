@@ -13253,11 +13253,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "M:\\VS2017 Projects\\Project4\\Project4_Routes\\Project4_Routes.csproj",
+      "projectUniqueName": "M:\\VS2017 Projects\\AspNetCorePratice\\Project4\\Project4_Routes\\Project4_Routes.csproj",
       "projectName": "Project4_Routes",
-      "projectPath": "M:\\VS2017 Projects\\Project4\\Project4_Routes\\Project4_Routes.csproj",
+      "projectPath": "M:\\VS2017 Projects\\AspNetCorePratice\\Project4\\Project4_Routes\\Project4_Routes.csproj",
       "packagesPath": "C:\\Users\\chand\\.nuget\\packages\\",
-      "outputPath": "M:\\VS2017 Projects\\Project4\\Project4_Routes\\obj\\",
+      "outputPath": "M:\\VS2017 Projects\\AspNetCorePratice\\Project4\\Project4_Routes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
