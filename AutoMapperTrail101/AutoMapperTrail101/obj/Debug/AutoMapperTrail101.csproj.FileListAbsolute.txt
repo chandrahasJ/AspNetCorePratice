@@ -1,0 +1,9 @@
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\obj\Debug\AutoMapperTrail101.csprojResolveAssemblyReference.cache
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\obj\Debug\AutoMapperTrail101.csproj.CoreCompileInputs.cache
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\bin\Debug\AutoMapperTrail101.exe.config
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\bin\Debug\AutoMapperTrail101.exe
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\bin\Debug\AutoMapperTrail101.pdb
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\bin\Debug\AutoMapper.dll
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\bin\Debug\AutoMapper.xml
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\obj\Debug\AutoMapperTrail101.exe
+M:\VS2017 Projects\AutoMapperTrail101\AutoMapperTrail101\obj\Debug\AutoMapperTrail101.pdb
