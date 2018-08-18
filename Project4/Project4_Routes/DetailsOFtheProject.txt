@@ -29,6 +29,6 @@
 	we need to add _ViewsImport.cshtml file in View Folder using Add Item -> MVC View Import Page 
 3) ActionLink -> We can use it as shown Below
    @Html.ActionLink("<Display Text>","<ACTION>","<CONTROLLER>")
-4) 
+4) I need to learn more about Routing... 
 
 

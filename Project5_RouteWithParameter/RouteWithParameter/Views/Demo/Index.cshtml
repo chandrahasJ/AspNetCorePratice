@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<h3>
+    @*[Route("demo2/{id}")]*@
+    <br />
+    <a asp-controller="demo" asp-action="demo2" asp-route-id="123">Demo2</a>
+    @*Above Tag renders :> <a href="/demo/cj/123">Demo2</a>*@ Link 1
+    <br />
+    @*[Route("cj/{id}")]*@
+    <br />
+    <a asp-controller="demo" asp-action="cj" asp-route-id="07">Demo2 via route CJ</a>
+    @*Above Tag renders :> <a href="/demo/cj/07">Demo2 via route CJ</a>*@ Link 2
+
+    <br />
+    @*[Route("demo3/{id1}/{id2}")]*@
+    <br />
+    <a asp-controller="demo" asp-action="demo3" asp-route-id1="123" asp-route-id2="P001">Demo3</a>
+    @*Above Tag renders :> <a href="/demo/cc/123/P001">Demo3</a>*@ Link 3
+    <br />
+    @*[Route("cc/{id1}/{id2}")]*@
+    <br />
+    <a asp-controller="demo" asp-action="cc" asp-route-id1="123" asp-route-id2="abc">Demo via CC</a>
+    @*Above Tag renders :> <a href="/demo/cc?id1=123&id2=abc">Demo via CC</a>*@ Link 4
+</h3>

@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Demo2";
+}
+
+<h2>Demo2</h2>
+
+<h3>@ViewBag.id</h3>
+
+
+@*[Route("index")]*@
+<br />
+<a asp-controller="demo" asp-action="index">Index Page</a>
+@*Above Tag renders :> <a href="/demo/MyDemoPage">Index Page</a>*@ Link 5
+<br />
+@*[Route("MyDemoPage")]*@
+<br />
+<a asp-controller="demo" asp-action="MyDemoPage">Index Page via MyDemoPage Route</a>
+@*Above Tag renders :> <a href="/demo/MyDemoPage">Index Page via MyDemoPage Route</a>*@ Link 6
