@@ -6,7 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace RouteWithParameter.Controllers
 {
-    [Route("demo")]
+   
+    [Route("demo")]    
     public class DemoController : Controller
     {
         [Route("")]
@@ -26,12 +27,12 @@ namespace RouteWithParameter.Controllers
             return View("Demo2");
         }
 
-        [Route("demo3/{id1}/{id2}")]
-        [Route("cc/{id1}/{id2}")]
-        public IActionResult Demo3(int id1,string id2)
+        [Route("cc/{data1}/{data2}")]
+        [Route("demo3/{data1}/{data2}")]        
+        public IActionResult Demo3(int data1, string data2)
         {
-            ViewBag.id = id1;
-            ViewBag.id2 = id2;
+            ViewBag.data1 = data1;
+            ViewBag.data2 = data2;
             return View("Demo3");
         }
     }

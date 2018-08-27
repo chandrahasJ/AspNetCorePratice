@@ -1,1 +1,17 @@
-﻿
+﻿https://stackoverflow.com/questions/51900596/asp-net-core-2-1-routing-issue
+
+1) asp-controller = controllername 
+2) asp-action = actionname
+3) asp-route-id = pass parameter data 
+   if we have more than one parameter to pass to action then     
+    [Route("demo3/{id1}/{id2}")]        
+    public IActionResult Demo3(int id1,string id2)
+    {
+        ViewBag.id = id1;
+        ViewBag.id2 = id2;
+        return View("Demo3");
+    }
+
+	<br />
+    <a asp-controller="demo" asp-action="demo3" asp-route-id1="123" asp-route-id2="P001">Demo3</a>
+4) 

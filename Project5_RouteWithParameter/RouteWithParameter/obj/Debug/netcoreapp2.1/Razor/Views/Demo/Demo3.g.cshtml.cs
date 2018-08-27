@@ -78,7 +78,7 @@ Write(ViewBag.id2);
             WriteLiteral("<br />\r\n");
             EndContext();
             BeginContext(156, 58, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f10ecba7afca47ca997659f761e9b044", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0cd5d5acf839456082af7bf5c9dea547", async() => {
                 BeginContext(200, 10, true);
                 WriteLiteral("Index Page");
                 EndContext();
@@ -105,7 +105,7 @@ Write(ViewBag.id2);
             WriteLiteral("<br />\r\n");
             EndContext();
             BeginContext(266, 78, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "937df0f219d2443ab49d2810aed14153", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d7ba51057bc34a019cc7aff1446d0c03", async() => {
                 BeginContext(315, 25, true);
                 WriteLiteral("Index Page via MyDemoPage");
                 EndContext();

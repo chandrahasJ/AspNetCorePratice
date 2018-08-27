@@ -19,11 +19,11 @@
     <br />
     @*[Route("demo3/{id1}/{id2}")]*@
     <br />
-    <a asp-controller="demo" asp-action="demo3" asp-route-id1="123" asp-route-id2="P001">Demo3</a>
+    <a asp-controller="demo" asp-action="demo3" asp-route-data1="123" asp-route-data2="P001">Demo3</a>
     @*Above Tag renders :> <a href="/demo/cc/123/P001">Demo3</a>*@ Link 3
     <br />
     @*[Route("cc/{id1}/{id2}")]*@
     <br />
-    <a asp-controller="demo" asp-action="cc" asp-route-id1="123" asp-route-id2="abc">Demo via CC</a>
+    <a asp-controller="demo" asp-action="cc" asp-route-data1="123" asp-route-data2="abc">Demo via CC</a>
     @*Above Tag renders :> <a href="/demo/cc?id1=123&id2=abc">Demo via CC</a>*@ Link 4
 </h3>
