@@ -1,0 +1,51 @@
+﻿[Note : @addTagHelpers SemiColon is not allowed in the end.]
+[Note 1 : FromQuery String Name Should be same as the query string in URL 
+		  but Parameter Name can be different.]
+1) FromQuery Data Annotations
+	[Route("Demo2")]
+    public IActionResult Demo2(
+        [FromQuery(Name = "id")] string id1 //Data will be extracted from Query
+    )
+    {
+        ViewBag.ID = id;
+        return View("Demo2");
+    }
+
+	We can supply query string to action as shown in above example
+	Data Annotation FromQuery We must supply Name & argument with any name 
+	[FromQuery(Name = "id")] string id1
+
+	URL : http://localhost:777/demo/Demo2?id=123
+
+2)  We can get Query string using HttpContext Object also
+	[Route("Demo4")]
+    public IActionResult Demo4()
+    {
+        var id1 = int.Parse(HttpContext.Request.Query["id1"].ToString());
+        var id2 = HttpContext.Request.Query["id2"].ToString();
+        ViewBag.ID1 = id1;
+        ViewBag.ID2 = id2;
+
+        return View("Demo4");
+    }
+
+	URL : https://localhost:44320/demo/Demo4?id1=123&id2=My%20Name%20is%20Chandrahas
+
+	We must use HttpContext.Request.Query["Name of the Query String"].ToString();
+3)  We can pass more than one value using Query String as shown below
+	[Route("Demo3")]
+    public IActionResult Demo3(
+        [FromQuery(Name = "Data1")] string Data1,
+        [FromQuery(Name = "Data2")] string NameString
+        )
+    {
+        ViewBag.Data1 = Data1;
+        ViewBag.Data2 = NameString;
+
+        return View("Demo3");
+    }
+
+	URL : http://localhost:777/demo/Demo3?Data1=CJ&amp;Data2=Chandrahas%20Poojari%20a.k.a%20CJ
+
+	In Above example we can see that we can supply two query string i.e. Data1 & Data2
+	
