@@ -1,0 +1,14 @@
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\bin\Debug\netcoreapp2.1\Project_FormHandling.deps.json
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\bin\Debug\netcoreapp2.1\Project_FormHandling.runtimeconfig.json
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\bin\Debug\netcoreapp2.1\Project_FormHandling.runtimeconfig.dev.json
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\bin\Debug\netcoreapp2.1\Project_FormHandling.dll
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.csprojAssemblyReference.cache
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.csproj.CoreCompileInputs.cache
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.RazorAssemblyInfo.cache
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.RazorAssemblyInfo.cs
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.AssemblyInfoInputs.cache
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.AssemblyInfo.cs
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.RazorTargetAssemblyInfo.cache
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\bin\Debug\netcoreapp2.1\Project_FormHandling.pdb
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.dll
+M:\VS2017 Projects\AspNetCorePratice\FormHandling\Project_FormHandling\obj\Debug\netcoreapp2.1\Project_FormHandling.pdb
